@@ -4,11 +4,16 @@
 
 <p align="left"> <a href="https://t.me/basildmx"><img src="https://github-profile-trophy.vercel.app/?username=dhe-astor" alt="​🇧​​🇦​​🇸​​🇮​​🇱​" /></a> </p>
 
-- 👨‍🎓 ɪ’ᴍ ᴀ ꜱᴛᴜᴅᴇɴᴛ ɪɴ ᴅᴇᴜᴛꜱᴄʜʟᴀɴᴅ 🇩🇪 **ʙ.ꜱ.ᴄ ᴄᴏᴍᴩᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ**
+## 👋 Hi, I'm Basil Eldhose
 
-- 💆‍♂️ ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ **ᴡᴇʙ ᴅᴇꜱɪɢɴɪɴɢ , 3ᴅ ɢᴀᴍᴇ ᴅᴇᴠᴇʟᴏᴩᴍᴇɴᴛ**
+🎓 Computer Science student based in Germany 🇩🇪  
+💻 Passionate about Web Development & Game Development  
+🚀 Currently learning Web Design and 3D Game Development  
 
-- 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ **Basileldhose200323@gmail.com**
+---
+
+### 📫 Contact Me
+- Email: basileldhose200323@gmail.com 
 
 <h3 align="left">ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ:</h3>
 <p align="left">
