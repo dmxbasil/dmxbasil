@@ -1,6 +1,6 @@
 <h1 align="center">ʜɪ 👋, ɪ'ᴍ​ ʙᴀꜱɪʟ​</h1>
 <h3 align="center"> ᴀ ᴩᴀꜱꜱɪᴏɴᴀᴛᴇ ​ᴅᴇᴠᴇʟᴏᴩᴇʀ ​ꜰʀᴏᴍ​ ​ɪɴᴅɪᴀ​ ᴀɴᴅ ᴡᴏʀᴋꜱ ɪɴ ɢᴇʀᴍᴀɴʏ </h3>
-<img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" alt="Coding" align="center" width="400" height="400" />
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding" align="right" width="400" height="400" />
 
 
 <p align="left"> <a href="https://t.me/basildmx"> 
