@@ -6,7 +6,7 @@
 
 ## 👋 Hi, I'm Basil Eldhose
 
-🎓 Computer Science student based in Germany 🇩🇪  
+🎓 Computer Science student based in Germany 
 💻 Passionate about Web Development & Game Development  
 🚀 Currently learning Web Design and 3D Game Development  
 
