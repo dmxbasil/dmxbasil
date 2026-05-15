@@ -1,10 +1,13 @@
 <h1 align="center">ʜɪ 👋, ɪ'ᴍ​ ʙᴀꜱɪʟ​</h1>
 <h3 align="center"> ᴀ ᴩᴀꜱꜱɪᴏɴᴀᴛᴇ ​ᴅᴇᴠᴇʟᴏᴩᴇʀ ​ꜰʀᴏᴍ​ ​ɪɴᴅɪᴀ​ ᴀɴᴅ ᴡᴏʀᴋꜱ ɪɴ ɢᴇʀᴍᴀɴʏ </h3>
-<img align="right" alt="Coding" width="400" src="">
+<img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" alt="Coding" align="center" width="400" height="400" />
 
-<p align="left"> <a href="https://t.me/basildmx"><img src="https://github-profile-trophy.vercel.app/?username=dhe-astor" alt="​🇧​​🇦​​🇸​​🇮​​🇱​" /></a> </p>
 
-## 👋 Hi, I'm Basil Eldhose
+<p align="left"> <a href="https://t.me/basildmx"> 
+ <a img src="https://github-profile-trophy.vercel.app/?username=dhe-astor" alt="​🇧​​🇦​​🇸​​🇮​​🇱​" /> </a> 
+</p>
+
+## Currently
 
 🎓 Computer Science student based in Germany 
 💻 Passionate about Web Development & Game Development  
